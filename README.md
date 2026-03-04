@@ -18,18 +18,22 @@
 
 ## About Me
 
-Hello, I am **RadjaXP**, a Frontend Developer and Game Developer focused on building interactive, responsive, and user-centered digital experiences.
+Hello, I am **RadjaXP**, a Frontend Developer and Game Developer focused on building responsive web applications and interactive digital experiences.
 
-I specialize in modern frontend development and interactive systems, with strong attention to performance, usability, and scalable architecture.
+I have strong interest in user interface engineering, performance optimization, and scalable frontend architecture. In game development, I focus on gameplay systems, interaction design, and UI implementation.
+
+---
+
+<img src="https://c.tenor.com/4GhLbA1SMJUAAAAC/tenor.gif" width="100%" style="border-radius:10px;" />
 
 ---
 
 ## Current Focus
 
-- Developing modern web applications with scalable frontend architecture  
-- Building interactive game systems and mechanics  
-- Improving UI/UX performance and animation optimization  
-- Exploring advanced state management and composition patterns  
+- Developing modern web applications using scalable architecture  
+- Building interactive and performance-oriented game systems  
+- Improving UI/UX responsiveness and animation efficiency  
+- Exploring advanced state management patterns  
 
 ---
 
@@ -44,9 +48,9 @@ I specialize in modern frontend development and interactive systems, with strong
 - Tailwind CSS  
 
 ### Game Development
-- Unity / Godot (adjust to your actual engine)
-- Game Mechanics & Logic Design  
-- UI for Games  
+- Unity / Godot (adjust based on what you use)  
+- Game Logic & Mechanics  
+- UI Implementation for Games  
 
 ### Tools & Environment
 - Git  
@@ -70,4 +74,4 @@ I specialize in modern frontend development and interactive systems, with strong
 
 ## Professional Objective
 
-To continuously improve as a Frontend and Game Developer by delivering high-quality, maintainable, and performance-oriented applications and interactive systems.
+To continuously develop high-quality, maintainable, and efficient applications in both frontend and game development environments.
