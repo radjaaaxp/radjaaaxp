@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=RadjaXP&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=220&section=header&text=RadjaXP&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Backend+Developer;Otaku+Developer;Hono+%26+Express+Crafter;Vue.js+Enjoyer;System+Automator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=add8e6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rad&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rad&label=PROFILE+VIEWS&color=add8e6&style=for-the-badge"/>
 
 <br><br>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## 👺 Character Profile: **OtakuDeveloper**
+## 👺 Character Profile: **Frontend Developer**
 
 </div>
 
@@ -45,6 +45,8 @@ Halo dunia! Aku **RadjaXP**, seorang *Backend Developer* yang hidup di balik ter
 | ⚡ **Fun Fact** | Lebih jago *debugging* server daripada namatin One Piece |
 
 ---
+
+<img src="https://c.tenor.com/4GhLbA1SMJUAAAAC/tenor.gif" width="100%" style="border-radius:10px;" />
 
 <div align="center">
 
@@ -108,6 +110,5 @@ Halo dunia! Aku **RadjaXP**, seorang *Backend Developer* yang hidup di balik ter
 
 <br><br>
 
-<img src="https://c.tenor.com/4GhLbA1SMJUAAAAC/tenor.gif" width="100%" style="border-radius:10px;" />
 
 </div>
