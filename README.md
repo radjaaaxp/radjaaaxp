@@ -37,15 +37,11 @@ I have strong interest in user interface engineering, performance optimization, 
 
 ---
 
-## Tech Stack
-
 ### Frontend Development
 - JavaScript  
 - TypeScript  
-- Vue.js  
-- Next.js  
+- Python  
 - HTML & CSS  
-- Tailwind CSS  
 
 ### Game Development
 - Unity / Godot (adjust based on what you use)  
@@ -55,20 +51,7 @@ I have strong interest in user interface engineering, performance optimization, 
 ### Tools & Environment
 - Git  
 - Linux  
-- Figma  
 - Blender (if applicable)  
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="165" />
-
-</div>
 
 ---
 
