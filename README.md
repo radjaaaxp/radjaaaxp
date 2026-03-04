@@ -5,110 +5,69 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=add8e6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=add8e6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Interactive+UI+Engineer" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rad&label=PROFILE+VIEWS&color=add8e6&style=for-the-badge"/>
-
-<br><br>
-
-<blockquote>
-  <b>“Ngoding itu seperti Arc Training di Anime —”</b><br>
-  <i>Lelah di awal, tapi Overpowered saat Production.</i> 🥷✨
-</blockquote>
+<img src="https://komarev.com/ghpvc/?username=RadjaXP&label=PROFILE+VIEWS&color=add8e6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-## 👺 Character Profile: **Frontend Developer**
+Hello, I am **RadjaXP**, a Frontend Developer and Game Developer focused on building interactive, responsive, and user-centered digital experiences.
 
-</div>
-
-Halo dunia! Aku **RadjaXP**, seorang *Backend Developer* yang hidup di balik terminal gelap, meracik API secepat kilat menggunakan Hono dan Express. 🖥️
-
-* **Class:** `Mage / Backend Summoner`
-* **Weapon:** `VS Code` & `Terminal`
-* **Specialty:** Building fast APIs & Scalable Systems
-
-<br>
-
-| **Quests & Stats** | **Current Status** |
-| :--- | :--- |
-| 🔭 **Active Project** | Anime API, Proxy System, Hono Microservices |
-| 🌱 **Learning** | Clean Architecture, Edge Computing, Vue.js Composition API |
-| 💬 **Ask Me About** | Node.js, Hono, REST API, Linux |
-| ⚡ **Fun Fact** | Lebih jago *debugging* server daripada namatin One Piece |
+I specialize in modern frontend development and interactive systems, with strong attention to performance, usability, and scalable architecture.
 
 ---
 
-<img src="https://c.tenor.com/4GhLbA1SMJUAAAAC/tenor.gif" width="100%" style="border-radius:10px;" />
+## Current Focus
+
+- Developing modern web applications with scalable frontend architecture  
+- Building interactive game systems and mechanics  
+- Improving UI/UX performance and animation optimization  
+- Exploring advanced state management and composition patterns  
+
+---
+
+## Tech Stack
+
+### Frontend Development
+- JavaScript  
+- TypeScript  
+- Vue.js  
+- Next.js  
+- HTML & CSS  
+- Tailwind CSS  
+
+### Game Development
+- Unity / Godot (adjust to your actual engine)
+- Game Mechanics & Logic Design  
+- UI for Games  
+
+### Tools & Environment
+- Git  
+- Linux  
+- Figma  
+- Blender (if applicable)  
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-## ⚔️ Skill Tree & Arsenal
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
 
-*Tech stack yang saya gunakan untuk menaklukan dungeon production.*
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<a href="https://github.com/WowoEngine/SawitDB">
-  <img src="https://raw.githubusercontent.com/WowoEngine/SawitDB/refs/heads/main/docs/sawitdb.jpg" height="28" alt="SawitDB" style="border-radius:2px;" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Termux-000?style=for-the-badge&logo=android" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-<div align="center">
+## Professional Objective
 
-## 📊 Power Level (Stats)
-
-<br>
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=zertcihuyy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&count_private=true" height="165" alt="stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertcihuyy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" height="165" alt="languages" />
-
-</div>
----
-
-<div align="center">
-
-✨ <b>OtakuDev • Backend • Anime • API</b> ✨
-<br>
-<i>"Code. Deploy. Chill. Repeat."</i>
-
-<br><br>
-
-
-</div>
+To continuously improve as a Frontend and Game Developer by delivering high-quality, maintainable, and performance-oriented applications and interactive systems.
