@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=220&section=header&text=RadjaXP&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=220&section=header&text=Min-jaa 氷&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=RadjaXP&label=PROFILE+VIEWS&color=add8e6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Min-jaa 氷&label=PROFILE+VIEWS&color=add8e6&style=for-the-badge"/>
 
 </div>
 
@@ -18,9 +18,7 @@
 
 ## About Me
 
-Hello, I am **RadjaXP**, a Frontend Developer and Game Developer focused on building responsive web applications and interactive digital experiences.
-
-I have strong interest in user interface engineering, performance optimization, and scalable frontend architecture. In game development, I focus on gameplay systems, interaction design, and UI implementation.
+  Hello, I am **Min-jaa 氷**, a Frontend Developer and Game Developer focused on building responsive web applications and interactive digital experiences. I have strong interest in user interface engineering, performance optimization, and scalable frontend architecture. In game development, I focus on gameplay systems, interaction design, and UI implementation.
 
 ---
 
@@ -29,7 +27,6 @@ I have strong interest in user interface engineering, performance optimization, 
 ---
 
 ## Current Focus
-
 - Developing modern web applications using scalable architecture  
 - Building interactive and performance-oriented game systems  
 - Improving UI/UX responsiveness and animation efficiency  
@@ -56,5 +53,4 @@ I have strong interest in user interface engineering, performance optimization, 
 ---
 
 ## Professional Objective
-
 To continuously develop high-quality, maintainable, and efficient applications in both frontend and game development environments.
