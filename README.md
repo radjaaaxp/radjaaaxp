@@ -60,9 +60,11 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 * **Blender** *(optional)*
 
 ---
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Professional+Objective"/>
+</a>
 
-## Professional Objective
-
-To continuously develop **high-quality, maintainable, and efficient applications** in both **frontend and game development**, while focusing on performance, scalability, and user experience.
+**To continuously develop high-quality, maintainable, and efficient applications in both frontend and game development, while focusing on performance, scalability, and user experience.**
 
 <img src="https://i.pinimg.com/originals/af/96/55/af96557a4841acaf2813c98ddfb92476.gif" width="100%" style="border-radius:10px;" />
