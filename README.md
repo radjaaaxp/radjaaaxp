@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Interactive+UI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Multi+Media;Interactive+UI+Engineer"/>
 </a>
 
 <br>
@@ -55,6 +55,7 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 
 * **Git**
 * **Python**
+* **Adobe Photoshop**
 * **Blender** *(optional)*
 
 ---
