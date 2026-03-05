@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;MultiMedia;Interactive+UI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Multimedia+Creator;Interactive+UI+Engineer"/>
 </a>
 
 <br>
@@ -18,10 +18,9 @@
 
 ## About Me
 
-Hello! I'm **Min-jaa 氷**, a **Frontend Developer** and **Game Developer** passionate about building responsive web applications and interactive digital experiences.
+Hello! I'm **Min-jaa 氷**, a **Frontend Developer**, **Game Developer**, and **Multimedia Creator** passionate about crafting interactive, responsive, and visually engaging experiences.
 
-My main focus is **UI engineering, performance optimization, and scalable frontend architecture**.
-In game development, I enjoy designing **gameplay systems, interaction mechanics, and user interface implementations**.
+I focus on **UI engineering, performance optimization, game systems, and multimedia content creation, including graphics, animations, and interactive visuals.**
 
 ---
 
@@ -50,7 +49,7 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 
 ---
 
-### MultiMedia
+### Multimedia Creator
 
 * **Adobe Photoshop & Illustrator - Graphic design & UI assets**
 * **Canva - Quick multimedia content creation**
