@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Multi+Media;Interactive+UI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;MultiMedia;Interactive+UI+Engineer"/>
 </a>
 
 <br>
@@ -36,18 +36,26 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 
 ### Frontend Development
 
-* **JavaScript**
-* **TypeScript**
-* **Python**
-* **HTML & CSS**
+* **JavaScript / TypeScript / Python**
+* **HTML & CSS / Responsive Design**
+* **Animations & Interactive UI**
 
 ---
 
 ### Game Development
 
 * **Python / Pygame**
-* **Game Classic & Mechanics**
-* **Game UI Implementation**
+* **Gameplay Mechanics & UI Implementation**
+* **2D & 3D Game Interactions**
+
+---
+
+### MultiMedia
+
+* **Adobe Photoshop & Illustrator - Graphic design & UI assets**
+* **Canva - Quick multimedia content creation**
+* **Blender - 3D modeling & animation** *(optional)*
+* **Interactive - GIFs & Animations – For web & game UI**
 
 ---
 
