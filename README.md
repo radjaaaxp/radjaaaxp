@@ -25,10 +25,6 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 
 ---
 
-<img src="https://images.steamusercontent.com/ugc/13070275920767844971/862089E0D6CFCD12845C781D856F9262394BBFB4/" width="100%" style="border-radius:10px;" />
-
----
-
 ## Current Focus
 
 * Developing **modern web applications** using scalable and maintainable architecture
@@ -68,3 +64,5 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 ## Professional Objective
 
 To continuously develop **high-quality, maintainable, and efficient applications** in both **frontend and game development**, while focusing on performance, scalability, and user experience.
+
+<img src="https://images.steamusercontent.com/ugc/13070275920767844971/862089E0D6CFCD12845C781D856F9262394BBFB4/" width="100%" style="border-radius:10px;" />
