@@ -3,13 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2962ff&height=220&section=header&text=Min-jaa%20氷&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
 <br>
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Interactive+UI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=e040fb&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Interactive+UI+Engineer"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=min-jaa&label=PROFILE+VIEWS&color=ffa300&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=radjaaaxp&label=PROFILE+VIEWS&color=e040fb&style=for-the-badge"/>
 
 </div>
 
