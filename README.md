@@ -56,6 +56,7 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 * **Git**
 * **Python**
 * **Adobe Photoshop**
+* **Canva**
 * **Blender** *(optional)*
 
 ---
