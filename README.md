@@ -26,9 +26,10 @@ I focus on **UI engineering, performance optimization, game systems, and multime
 
 ## Current Focus
 
-* Developing **modern web applications** using scalable and maintainable architecture
-* Building **interactive and performance-oriented game systems**
-* Improving **UI/UX responsiveness and animation performance**
+* Building **modern web applications** with scalable architecture
+* Designing **interactive and performance-oriented game systems**
+* Enhancing **UI/UX responsiveness and animation performance**
+* Creating **multimedia content** like animations, graphics, and interactive visuals
 * Exploring **advanced state management patterns**
 
 ---
