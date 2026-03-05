@@ -45,8 +45,8 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 
 ### Game Development
 
-* **Unity / Godot**
-* **Game Logic & Mechanics**
+* **Python / Pygame**
+* **Game Classic & Mechanics**
 * **Game UI Implementation**
 
 ---
@@ -54,7 +54,7 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 ### Tools & Environment
 
 * **Git**
-* **Linux**
+* **Python**
 * **Blender** *(optional)*
 
 ---
