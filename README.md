@@ -34,8 +34,6 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 
 ---
 
-## Tech Stack
-
 ### Frontend Development
 
 * **JavaScript**
