@@ -25,7 +25,7 @@ In game development, I enjoy designing **gameplay systems, interaction mechanics
 
 ---
 
-<img src="https://c.tenor.com/4GhLbA1SMJUAAAAC/tenor.gif" width="100%" style="border-radius:10px;" />
+<img src="https://images.steamusercontent.com/ugc/13070275920767844971/862089E0D6CFCD12845C781D856F9262394BBFB4/" width="100%" style="border-radius:10px;" />
 
 ---
 
