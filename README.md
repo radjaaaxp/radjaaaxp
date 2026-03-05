@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=220&section=header&text=Min-jaa%20氷&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9913&height=220&section=header&text=Min-jaa%20氷&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=add8e6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Interactive+UI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fc6a03&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Interactive+UI+Engineer"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=min-jaa&label=PROFILE+VIEWS&color=add8e6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=min-jaa&label=PROFILE+VIEWS&color=fc6a03&style=for-the-badge"/>
 
 </div>
 
